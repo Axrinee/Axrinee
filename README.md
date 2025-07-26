@@ -25,7 +25,7 @@
 
 <h1 align="center">📊 GitHub Stats</h1>
 
-<h1>👀 Profile Views <img src="https://komarev.com/ghpvc/?username=HariniShree04&color=blue" alt="Visitor Count" style="background: linear-gradient(to bottom right, #36BCF7, #121212); padding: 20px; border-radius: 15px;" /></h1>
+<h1>👀 Profile Views <img src="https://komarev.com/ghpvc/?username=Axrinee&color=blue" alt="Visitor Count" style="background: linear-gradient(to bottom right, #36BCF7, #121212); padding: 20px; border-radius: 15px;" /></h1>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px; background: linear-gradient(to bottom right, #36BCF7, #121212); border-radius: 15px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axrinee&layout=compact&theme=radical" alt="Top Languages" style="max-width: 100%; width: 45%; min-width: 300px; height: 250px" />
@@ -37,10 +37,10 @@
 <h2 align="center">🌟 Top Repositories</h2>
 
 <p align="center">
-  <a href="https://github.com/HariniShree04/House-Rental-JDBC">
+  <a href="https://github.com/Axrinee/Rental-House-system-management-using-JDBC">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Axrinee&repo=Rental-House-system-management-using-JDBC&theme=radical" />
   </a>
-  <a href="https://github.com/HariniShree04/IoT-Smart-Home">
+  <a href="https://github.com/Axrinee/payment-based-java-database-connectivity">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Axrinee&repo=payment-based-java-database-connectivity&theme=radical" />
   </a>
 </p>
@@ -48,8 +48,8 @@
 ---
 
 <h2 align="center">🌐 LeetCode Profile</h2>
-<a href="https://leetcode.com/Harinishree_hs/">
-  <img src="https://leetcard.jacoblin.cool/Harinishree_sh?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats">
+<a href="https://leetcode.com/u/harinishree_hs/">
+  <img src="https://leetcard.jacoblin.cool/harinishree_sh?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats">
 </a>
 
 ---
