@@ -11,8 +11,10 @@
 - 🌱 Currently learning **Fullstack Java**, **IoT Systems**, and **Python**  
 - 👩‍💻 Interned at **Kevell Corp Pvt Ltd**, working on real-time **IoT architectures** and device testing  
 - 💬 Ask me about **Java**, **JDBC Projects**, and **Device-Sensor Integration**  
-- 📫 Reach me at: **harinishreeraj04@gmail.com** <!-- Replace with actual link (RESUME)-->
+- 📫 Reach me at: **harinishreeraj04@gmail.com**
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/13VmOd-H8nlzwbR-iVo2ooBtiBFdVv8IA/view?usp=drivesdk "> Resume </a> 
 - ⚡ Fun fact: **I built systems to manage rentals, payments, and travel—all powered by JDBC!**
+  
 
 <h2 align="center">🛠️ Tech Toolkit</h2>
 
