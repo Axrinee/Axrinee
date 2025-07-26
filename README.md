@@ -11,8 +11,8 @@
 - 🌱 Currently learning **Fullstack Java**, **IoT Systems**, and **Python**  
 - 👩‍💻 Interned at **Kevell Corp Pvt Ltd**, working on real-time **IoT architectures** and device testing  
 - 💬 Ask me about **Java**, **JDBC Projects**, and **Device-Sensor Integration**  
-- 📫 Reach me at: **harinishreeraj04@gmail.com**  
-- 📄 Check out my [Resume](https://your-resume-link.com) <!-- Replace with actual link -->
+- 📫 Reach me at: **harinishreeraj04@gmail.com**
+- <!-- Replace with actual link (RESUME)-->
 - ⚡ Fun fact: **I built systems to manage rentals, payments, and travel—all powered by JDBC!**
 
 <h2 align="center">🛠️ Tech Toolkit</h2>
@@ -32,6 +32,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Axrinee&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 100%; width: 45%; min-width: 300px; height: 250px" />
 </div>
 
+
 ---
 
 <h2 align="center">🌟 Top Repositories</h2>
@@ -49,7 +50,7 @@
 
 <h2 align="center">🌐 LeetCode Profile</h2>
 <a href="https://leetcode.com/u/harinishree_hs/">
-  <img src="https://leetcard.jacoblin.cool/harinishree_sh?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/harinishree_hs?theme=dark&font=Bellota%20Text" alt="LeetCode Stats">
 </a>
 
 ---
