@@ -68,7 +68,7 @@
 
   <!-- GitHub Logo -->
   <a href="https://github.com/Axrinee" target="_blank">
-    <img align="center" src="https://icons8.com/icon/12599/github alt="GitHub" height="50" width="50" />
+    <img align="center" src="https://icons8.com/icon/12599/github.png" alt="GitHub" height="50" width="50" />
   </a>
 </p>
 
